@@ -1,11 +1,14 @@
 *{
     box-sizing: border-box;
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
 }
+
 body {
     color: #373737;
     font-size: 16px;
-    position: static;
+    position: relative;
 }
 h1,
 h2,

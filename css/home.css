@@ -1,3 +1,14 @@
+.header{
+    height: 8rem;
+    background-color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.nav-logo{
+    height: 100px;
+}
+
 .carousel img{
     height: 300px;
     object-fit: cover;
